@@ -1,0 +1,104 @@
+﻿<Page x:Class="IndividualProgress.Pages.Statistics"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:IndividualProgress.Pages"
+      xmlns:Convert="clr-namespace:IndividualProgress.Converters"
+      mc:Ignorable="d" 
+      Title="Статистика">
+    <Page.Resources>
+        <Convert:DateConverter x:Key="Short"/>
+    </Page.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="7*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <TextBlock FontSize="20" Text="Полная статистика:" Margin="10,0,0,20"/>
+            <StackPanel Grid.Row="1">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="120" Margin="5,0,0,8" VerticalAlignment="Center" TextAlignment="Right" Text="Период с : "/>
+                    <DatePicker SelectedDate="{Binding BeginDate}" Width="120" Margin="0,0,0,5" />
+                    <TextBlock Width="auto" Margin="5,0,5,8" VerticalAlignment="Center" TextAlignment="Right" Text=" по : "/>
+                    <DatePicker SelectedDate="{Binding EndDate}" Width="120" Margin="5,0,0,5" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="5,0,5,8">
+                    <TextBlock Width="120" VerticalAlignment="Center" TextAlignment="Right" Text="Преподаватель : "/>
+                    <ComboBox Width="300" DisplayMemberPath="Name" ItemsSource="{Binding Teachers}" SelectedItem="{Binding SelectedTeacher}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="5,0,5,8">
+                    <TextBlock Width="120" VerticalAlignment="Center" TextAlignment="Right" Text="Сфера : "/>
+                    <ComboBox Width="300" ItemsSource="{Binding Spheres}" SelectedItem="{Binding SelectedSphere}" DisplayMemberPath="Name"/>
+                </StackPanel>
+                
+                <StackPanel Orientation="Horizontal" Margin="5,0,5,8">
+                    <TextBlock Width="120" VerticalAlignment="Center" TextAlignment="Right" Text="Масштаб : "/>
+                    <ComboBox Width="300" ItemsSource="{Binding Levels}" SelectedItem="{Binding SelectedLevel}" DisplayMemberPath="Name"/>
+                </StackPanel>
+                
+                <GroupBox DataContext="{Binding Stat}">
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Width="200" TextAlignment="Right" Text="Общее количество участий: " Margin="10" FontSize="15" />
+                            <TextBlock VerticalAlignment="Center" Text="{Binding CountParts, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="10" FontSize="15"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Width="200" TextAlignment="Right" Text="Результативность: " Margin="10" FontSize="15" />
+                            <TextBlock VerticalAlignment="Center" Text="{Binding AllResult, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="10" FontSize="15"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Width="200" TextAlignment="Right" VerticalAlignment="Center"  Text="Количество призовых мест: " Margin="10,10,10,0" FontSize="15" />
+                            <TextBlock VerticalAlignment="Center" Text="{Binding CountPrizePlace, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="10,10,10,0" FontSize="15"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Width="200" TextAlignment="Right" Text="Первых мест: " Margin="10,3,10,0" FontSize="15"/>
+                            <TextBlock VerticalAlignment="Center" Text="{Binding CountFirstPlace}" Margin="10,3,10,0" FontSize="15"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Width="200" TextAlignment="Right" Text="Вторых мест: " Margin="10,3,10,0" FontSize="15"/>
+                            <TextBlock VerticalAlignment="Center" Text="{Binding CountSecondPlace}" Margin="10,3,10,0" FontSize="15"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Width="200" TextAlignment="Right" Text="Третьих мест: " Margin="10,3,10,0" FontSize="15"/>
+                            <TextBlock VerticalAlignment="Center" Text="{Binding CountThirdPlace}" Margin="10,3,10,0" FontSize="15"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Width="200" TextAlignment="Right" Text="Среднее место: " Margin="10" FontSize="15" />
+                            <TextBlock VerticalAlignment="Center" Text="{Binding AveragePlace, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="10" FontSize="15"/>
+                        </StackPanel>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="2">
+                <Button Margin="10,5,5,10" Height="30" Width="170" Click="GoStudent">Полный список студентов</Button>
+                <Button Margin="10,5,5,10" Height="30" Width="170" Click="GoEvent">Полный список мероприятий</Button>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="8*"/>
+            </Grid.RowDefinitions>
+            <TextBlock FontSize="20" Text="Список участий:" Margin="10,0,0,20"/>
+            <DataGrid Margin="10" Grid.Row="1" ItemsSource="{Binding SelectedParts}" AutoGenerateColumns="False" 
+                   RowBackground="LightGray" AlternatingRowBackground="White"
+                  CanUserAddRows="False" CanUserDeleteRows="False" FrozenColumnCount="3" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Название" Binding="{Binding Event.Name}" Width="1*"/>
+                    <DataGridTextColumn Header="Студент" Binding="{Binding Student.FullName}" Width="1*"/>
+                    <DataGridTextColumn Header="Место" Binding="{Binding Place}" Width="auto"/>
+                    <DataGridTextColumn Header="Преподаватель" Binding="{Binding Teacher.Name}" Width="1*"/>
+                    <DataGridTextColumn Header="Дата" Binding="{Binding Event.Date, Converter={StaticResource Short}}" Width="auto"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            
+        </Grid>
+    </Grid>
+</Page>

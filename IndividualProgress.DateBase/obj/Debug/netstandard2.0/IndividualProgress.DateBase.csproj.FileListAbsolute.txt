@@ -1,0 +1,81 @@
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.deps.json
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfo.cs
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csprojResolveAssemblyReference.cache
+E:\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.deps.json
+E:\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+E:\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+E:\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csprojResolveAssemblyReference.cache
+E:\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csproj.CoreCompileInputs.cache
+E:\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfoInputs.cache
+E:\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfo.cs
+E:\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+E:\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.deps.json
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csprojResolveAssemblyReference.cache
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csproj.CoreCompileInputs.cache
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfoInputs.cache
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfo.cs
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.deps.json
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfoInputs.cache
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfo.cs
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.deps.json
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csprojResolveAssemblyReference.cache
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csproj.CoreCompileInputs.cache
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfoInputs.cache
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfo.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.deps.json
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfoInputs.cache
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfo.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.deps.json
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csprojResolveAssemblyReference.cache
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csproj.CoreCompileInputs.cache
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfoInputs.cache
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfo.cs
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.deps.json
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csprojResolveAssemblyReference.cache
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csproj.CoreCompileInputs.cache
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfoInputs.cache
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfo.cs
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.deps.json
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\bin\Debug\netstandard2.0\IndividualProgress.DateBase.pdb
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csprojResolveAssemblyReference.cache
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.csproj.CoreCompileInputs.cache
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfoInputs.cache
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.AssemblyInfo.cs
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress.DateBase\obj\Debug\netstandard2.0\IndividualProgress.DateBase.pdb

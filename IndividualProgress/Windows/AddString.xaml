@@ -1,0 +1,19 @@
+﻿<Window x:Class="IndividualProgress.Windows.AddString"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IndividualProgress.Windows"
+        mc:Ignorable="d"
+        Title="Добавить" MaxHeight="110" MaxWidth="300" MinHeight="110" MinWidth="300">
+    <StackPanel>
+        <DockPanel>
+            <TextBox Width="200" Margin="5,5,5,5" Text="{Binding Value}" DockPanel.Dock="Right"/>
+            <TextBlock Margin="5,5,5,8" TextAlignment="Right" Text="Название:"/>
+        </DockPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Height="30" Margin="5" Click="CancelClick">Отмена</Button>
+            <Button Height="30" Margin="5" Click="AddClick">Добавить</Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

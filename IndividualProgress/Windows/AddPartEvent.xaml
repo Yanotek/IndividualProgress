@@ -1,0 +1,102 @@
+﻿<Window x:Class="IndividualProgress.Windows.AddPartEvent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IndividualProgress.Windows"
+        mc:Ignorable="d"
+        Title="Добавить информацию о мероприятии" Width="510" Height="470">
+    <Window.Resources>
+        <Style x:Key="ReadOnly" TargetType="TextBox">
+            <Style.Triggers>
+                <Trigger Property="IsReadOnly" Value="true">
+                    <Setter Property="Background" Value="LightGray"/>
+                </Trigger>
+                <Trigger Property="IsReadOnly" Value="false">
+                    <Setter Property="Background" Value="White"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel>
+            <RadioButton Name="Select" GroupName="Main" Margin="5,0,0,10" IsChecked="{Binding SelectEvent}">Выбрать мероприятие</RadioButton>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Мероприятие:"/>
+                <ComboBox IsEnabled="{Binding ElementName=Select, Path=IsChecked}" Width="300" Margin="5,0,30,5" ItemsSource="{Binding Events}" SelectedItem="{Binding SelectedEvent}">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Width="150" Text="{Binding Name}"/>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+            </StackPanel>
+            <RadioButton Name="Add" GroupName="Main" Margin="5,0,0,10">Добавить мероприятие</RadioButton>
+            <StackPanel IsEnabled="{Binding ElementName=Add, Path=IsChecked}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Название:"/>
+                    <TextBox Width="300" Margin="5,0,30,5" Text="{Binding NewEvent.Name}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Дата проведения:"/>
+                    <DatePicker Width="300" Margin="5,0,30,5" SelectedDate="{Binding NewEvent.Date}" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Сфера деятельности:"/>
+                    <ComboBox Width="300" Margin="5,0,0,5" ItemsSource="{Binding Spheres}" SelectedItem="{Binding NewEvent.Direction.Sphere}">
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Width="150" Text="{Binding Name}"/>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
+                    <Button Width="20" Margin="5,0,5,5" Click="AddSphereClick">+</Button>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Тип деятельности:"/>
+                    <TextBox Width="300" Margin="5,0,30,5" Text="{Binding NewEvent.Direction.Description}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Город проведения:"/>
+                    <TextBox Width="300" Margin="5,0,30,5" Text="{Binding NewEvent.Location.City}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Адресс проведения*:"/>
+                    <TextBox Width="300" Margin="5,0,30,5" Text="{Binding NewEvent.Location.Adress}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Описание пункта проведения*:" TextWrapping="Wrap"/>
+                    <TextBox TextWrapping="Wrap" Width="300" Margin="5,0,30,5" Height="35" Text="{Binding NewEvent.Location.Description}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Уровень мероприятия:"/>
+                    <ComboBox IsEnabled="{Binding ElementName=Add, Path=IsChecked}" ItemsSource="{Binding Levels}" SelectedItem="{Binding NewEvent.Level}" Width="300" Margin="5,0,0,5">
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Width="150" Text="{Binding Name}"/>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
+                    <Button Width="20" Margin="5,0,5,5" Click="AddLevelClick">+</Button>
+                </StackPanel>
+            </StackPanel>
+            <TextBlock HorizontalAlignment="Left" Margin="5">* - необязательно заполнять</TextBlock>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Занятое место:"/>
+                <TextBox Width="300" Margin="5,0,30,5" Text="{Binding Part.Place}" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Кол-во баллов:"/>
+                <TextBox Width="300" Margin="5,0,30,5" Text="{Binding Part.Score}" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Width="150" Margin="5,0,5,8" TextAlignment="Right" Text="Ведущий преподаватель:"/>
+                <ComboBox IsEditable="True" Width="300" Margin="5,0,0,5" ItemsSource="{Binding Teachers}" SelectedItem="{Binding SelectedTeacher}" DisplayMemberPath="Name" Text="{Binding TeacherName}" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Left">
+                <Button Height="30" Margin="5" Click="CancelClick">Отмена</Button>
+                <Button Height="30" Margin="5" Click="AddClick">Добавить Информацию о мероприятии</Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

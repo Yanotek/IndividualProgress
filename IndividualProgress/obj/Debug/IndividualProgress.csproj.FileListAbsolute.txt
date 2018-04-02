@@ -1,0 +1,1501 @@
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe.config
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.pdb
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\netstandard.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.AppContext.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Specialized.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Console.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Data.Common.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.IO.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Pipes.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Expressions.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Parallel.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Queryable.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Http.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NameResolution.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Ping.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Primitives.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Requests.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Security.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.ObjectModel.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Reader.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Writer.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Handles.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Claims.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Principal.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Security.SecureString.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Thread.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Timer.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XDocument.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe.config
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\App.g.cs
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.cache
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.lref
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.g.resources
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.Properties.Resources.resources
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.pdb
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.dll
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.pdb
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.g.cs
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.baml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.g.cs
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.baml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.g.cs
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.baml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.g.cs
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.baml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.g.cs
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.baml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.g.cs
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.baml
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.g.cs
+C:\Users\User\source\repos\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.baml
+E:\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe.config
+E:\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe
+E:\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.pdb
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\netstandard.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.AppContext.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Concurrent.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.NonGeneric.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Specialized.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Primitives.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Console.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Data.Common.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Contracts.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Debug.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Process.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tools.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tracing.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Drawing.Primitives.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Dynamic.Runtime.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Calendars.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Extensions.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.IO.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.IO.IsolatedStorage.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Pipes.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Expressions.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Parallel.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Queryable.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Http.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NameResolution.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NetworkInformation.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Ping.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Primitives.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Requests.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Security.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Sockets.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.Client.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.ObjectModel.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Extensions.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Primitives.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Reader.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.ResourceManager.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Writer.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Extensions.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Handles.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Numerics.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Claims.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Principal.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Security.SecureString.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Text.RegularExpressions.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Overlapped.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Thread.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.ThreadPool.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Timer.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.ValueTuple.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.ReaderWriter.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XDocument.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlDocument.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlSerializer.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Annotations.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Data.SqlClient.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.pdb
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.xml
+E:\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csprojResolveAssemblyReference.cache
+E:\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe.config
+E:\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.g.cs
+E:\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.g.cs
+E:\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.g.cs
+E:\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.g.cs
+E:\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.g.cs
+E:\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.g.cs
+E:\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.g.cs
+E:\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.g.cs
+E:\IndividualProgress\IndividualProgress\obj\Debug\App.g.cs
+E:\IndividualProgress\IndividualProgress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.cache
+E:\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.lref
+E:\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.baml
+E:\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.baml
+E:\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.baml
+E:\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.baml
+E:\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.baml
+E:\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.baml
+E:\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.baml
+E:\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.baml
+E:\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.g.resources
+E:\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.Properties.Resources.resources
+E:\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.GenerateResource.Cache
+E:\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.CoreCompileInputs.cache
+E:\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe
+E:\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.pdb
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe.config
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.pdb
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\netstandard.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.AppContext.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Console.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Data.Common.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.IO.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Pipes.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Http.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Ping.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Primitives.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Requests.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Security.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Sockets.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.ObjectModel.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Reader.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Writer.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Claims.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Principal.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Security.SecureString.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Thread.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Timer.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.ValueTuple.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.pdb
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csprojResolveAssemblyReference.cache
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.IndividualProgress.exe.config
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.g.cs
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.g.cs
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.g.cs
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.g.cs
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.g.cs
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.g.cs
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.g.cs
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.g.cs
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\App.g.cs
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.cache
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.lref
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.baml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.baml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.baml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.baml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.baml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.baml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.baml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.baml
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.g.resources
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.Properties.Resources.resources
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.GenerateResource.Cache
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.CoreCompileInputs.cache
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe
+C:\Users\Joni_no\Desktop\Документы\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.pdb
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe.config
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.pdb
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\netstandard.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.AppContext.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Console.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Data.Common.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Pipes.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Http.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Ping.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Primitives.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Requests.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Security.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Sockets.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ObjectModel.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Reader.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Writer.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Claims.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Principal.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.SecureString.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Thread.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Timer.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ValueTuple.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.pdb
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe.config
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.g.cs
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.g.cs
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.g.cs
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.g.cs
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.g.cs
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.g.cs
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.g.cs
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.cache
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.lref
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.baml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.baml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.baml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.baml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.baml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.baml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.baml
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.g.resources
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.Properties.Resources.resources
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.GenerateResource.Cache
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe
+C:\Users\Студент\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.pdb
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe.config
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.pdb
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\netstandard.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.AppContext.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Console.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Data.Common.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Pipes.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Http.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Ping.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Primitives.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Requests.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Security.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Sockets.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ObjectModel.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Reader.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Writer.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Claims.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Principal.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Security.SecureString.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Thread.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Timer.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ValueTuple.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.pdb
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csprojResolveAssemblyReference.cache
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe.config
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.g.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.g.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.g.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.g.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.g.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.g.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.g.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.g.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\App.g.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.cache
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.lref
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.baml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.baml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.baml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.baml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.baml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.baml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.baml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.baml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.g.resources
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.Properties.Resources.resources
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.GenerateResource.Cache
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.CoreCompileInputs.cache
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.pdb
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe.config
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.pdb
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\netstandard.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.AppContext.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Console.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Data.Common.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Pipes.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Http.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Ping.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Primitives.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Requests.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Security.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Sockets.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ObjectModel.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Reader.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Writer.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Claims.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Principal.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.SecureString.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Thread.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Timer.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ValueTuple.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.pdb
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe.config
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.g.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.g.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.g.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.g.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.g.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.g.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.g.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.cache
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.lref
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.baml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.baml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddEvent.baml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.baml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.baml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.baml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddStudent.baml
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.g.resources
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.Properties.Resources.resources
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.GenerateResource.Cache
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.pdb
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Statistics.g.cs
+C:\Users\Студент\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Statistics.baml
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Pages\Statistics.g.cs
+C:\Users\Den\Desktop\IndividualProgress\IndividualProgress\obj\Debug\Pages\Statistics.baml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe.config
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.pdb
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\netstandard.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.AppContext.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Console.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Data.Common.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Pipes.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Http.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Ping.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Primitives.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Requests.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Security.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Sockets.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ObjectModel.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Reader.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Writer.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Claims.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Principal.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Security.SecureString.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Thread.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Timer.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ValueTuple.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.pdb
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csprojResolveAssemblyReference.cache
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.IndividualProgress.exe.config
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.g.cs
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.g.cs
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.g.cs
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Statistics.g.cs
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.g.cs
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.g.cs
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.g.cs
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\App.g.cs
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.cache
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.lref
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.baml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.baml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.baml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Pages\Statistics.baml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.baml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.baml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.baml
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.g.resources
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.Properties.Resources.resources
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.GenerateResource.Cache
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.CoreCompileInputs.cache
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe
+C:\Users\Joni_no\Desktop\Разработка\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.pdb
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe.config
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.pdb
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\netstandard.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.AppContext.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Console.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Data.Common.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Pipes.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Http.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Ping.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Primitives.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Requests.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Security.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Sockets.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ObjectModel.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Reader.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Writer.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Claims.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Principal.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.SecureString.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Thread.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Timer.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ValueTuple.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.pdb
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csprojResolveAssemblyReference.cache
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe.config
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.g.cs
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.g.cs
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.g.cs
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Statistics.g.cs
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.g.cs
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.g.cs
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.g.cs
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\App.g.cs
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.cache
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.lref
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.baml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.baml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.baml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Statistics.baml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.baml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.baml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.baml
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.g.resources
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.Properties.Resources.resources
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.GenerateResource.Cache
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.CoreCompileInputs.cache
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe
+C:\Users\Малышев\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.pdb
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe.config
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.exe
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.pdb
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\netstandard.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.AppContext.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Specialized.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Console.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Data.Common.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.Pipes.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Expressions.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Parallel.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Linq.Queryable.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Http.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NameResolution.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Ping.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Primitives.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Requests.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Security.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.Sockets.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Net.WebSockets.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ObjectModel.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Reader.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Resources.Writer.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Handles.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Claims.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.Principal.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Security.SecureString.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Thread.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Threading.Timer.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ValueTuple.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XDocument.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Data.SqlClient.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\IndividualProgress.DateBase.pdb
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\Remotion.Linq.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Collections.Immutable.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Interactive.Async.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csprojResolveAssemblyReference.cache
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe.config
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.g.cs
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.g.cs
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.g.cs
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Statistics.g.cs
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.g.cs
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.g.cs
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.g.cs
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\App.g.cs
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.cache
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress_MarkupCompile.lref
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\MainWindow.baml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Events.baml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Main.baml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Pages\Statistics.baml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartEvent.baml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddPartStudent.baml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\Windows\AddString.baml
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.g.resources
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.Properties.Resources.resources
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.GenerateResource.Cache
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.csproj.CoreCompileInputs.cache
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.exe
+C:\Users\joni_\Desktop\Маленькая папочка в углу стола\IndividualProgress\IndividualProgress\obj\Debug\IndividualProgress.pdb
