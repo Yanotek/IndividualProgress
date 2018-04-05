@@ -10,6 +10,9 @@ using IndividualProgress.Windows;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System;
+using System.Windows.Media;
+using System.Threading.Tasks;
+using System.Threading;
 
 namespace IndividualProgress.Pages
 {
@@ -34,6 +37,16 @@ namespace IndividualProgress.Pages
             };
             model.SelectedStudent = student;
             model.SelectedParts.Clear();
+            Task.Run(() =>
+            {
+                model.Brush = Brushes.Red;
+                Thread.Sleep(1000);
+                model.Brush = Brushes.Gray;
+                Thread.Sleep(1000);
+                model.Brush = Brushes.Red;
+                Thread.Sleep(1000);
+                model.Brush = Brushes.Gray;
+            });
         }
 
         private void DeleteStudent(object sender, RoutedEventArgs e)
@@ -237,6 +250,16 @@ namespace IndividualProgress.Pages
         public void OnPropertyChanged([CallerMemberName]string prop = "")
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(prop));
+        }
+        private Brush brush { get; set; } = Brushes.Gray;
+        public Brush Brush
+        {
+            get => brush;
+            set
+            {
+                brush = value;
+                OnPropertyChanged("Brush");
+            }
         }
     }
 }

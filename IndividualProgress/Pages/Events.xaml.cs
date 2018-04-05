@@ -18,6 +18,7 @@ using IndividualProgress.Windows;
 using IndividualProgress.DateBase;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
+using System.Threading;
 
 namespace IndividualProgress.Pages
 {
@@ -62,6 +63,16 @@ namespace IndividualProgress.Pages
                 Location = new Location()
             };
             model.SelectedParts.Clear();
+            var b = Task.Run(() =>
+            {
+                model.Brush = Brushes.Red;
+                Thread.Sleep(1000);
+                model.Brush = Brushes.Gray;
+                Thread.Sleep(1000);
+                model.Brush = Brushes.Red;
+                Thread.Sleep(1000);
+                model.Brush = Brushes.Gray;
+            });
         }
 
         private void StaticticClick(object sender, RoutedEventArgs e)
@@ -301,6 +312,17 @@ namespace IndividualProgress.Pages
         public void OnPropertyChanged([CallerMemberName]string prop = "")
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(prop));
+        }
+
+        private Brush brush { get; set; } = Brushes.Gray;
+        public Brush Brush
+        {
+            get => brush;
+            set
+            {
+                brush = value;
+                OnPropertyChanged("Brush");
+            }
         }
     }
 }

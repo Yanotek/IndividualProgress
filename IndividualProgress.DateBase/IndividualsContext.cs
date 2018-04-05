@@ -20,12 +20,13 @@ namespace IndividualProgress.DateBase
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=LAPTOP-A0J4PO5T\\SQLEXPRESS;Database=Individuals;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("User ID=vector;Password=korol;Initial Catalog=IndividualProgress;Server=priemnaya");
             }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            
             modelBuilder.Entity<Direction>(entity =>
             {
                 entity.Property(e => e.Description).HasMaxLength(200);

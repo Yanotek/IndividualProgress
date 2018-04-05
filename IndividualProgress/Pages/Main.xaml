@@ -44,8 +44,8 @@
                 </DataGrid.Columns>
             </DataGrid>
             <StackPanel Orientation="Horizontal" Grid.Row="2">
-                <Button Margin="10,5,5,5" Height="30" Width="60" FontSize="15" Click="ClickAddStud">+</Button>
-                <Button Margin="10,5,5,5" Height="30" Width="60" FontSize="15" Click="DeleteStudent">-</Button>
+                <Button Margin="10,5,5,5" Height="30" FontSize="15" Click="ClickAddStud">Добавить студента</Button>
+                <Button Margin="10,5,5,5" Height="30" FontSize="15" Click="DeleteStudent">Удалить студента</Button>
             </StackPanel>
         </Grid> 
         <Grid Grid.Column="1">
@@ -65,15 +65,15 @@
                 <StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Width="100" Margin="5,0,5,8" TextAlignment="Right" Text="Полное имя:" />
-                        <TextBox Width="300" Margin="5,0,30,5" Text="{Binding SelectedStudent.FullName}"/>
+                        <TextBox BorderBrush="{Binding Brush}" Width="300" Margin="5,0,30,5" Text="{Binding SelectedStudent.FullName}"/>
                     </StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock  Width="100" Margin="5,0,5,12" TextAlignment="Right" Text="Дата рождения:" />
-                        <DatePicker Width="300"  Margin="5,0,30,5" SelectedDate="{Binding SelectedStudent.DateOfBirth}" />
+                        <DatePicker BorderBrush="{Binding Brush}" Width="300" Margin="5,0,30,5" SelectedDate="{Binding SelectedStudent.DateOfBirth}" />
                     </StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Width="100" Margin="5,0,5,7" TextAlignment="Right" Text="Название группы:" />
-                        <ComboBox Width="300" Margin="5,0,0,5" IsEditable="True" DisplayMemberPath="Name" DockPanel.Dock="Right" ItemsSource="{Binding Groups}" Text="{Binding Groupname}" SelectedItem="{Binding SelectedStudent.Group}"/>
+                        <ComboBox BorderBrush="{Binding Brush}" Width="300" Margin="5,0,0,5" IsEditable="True" DisplayMemberPath="Name" DockPanel.Dock="Right" ItemsSource="{Binding Groups}" Text="{Binding Groupname}" SelectedItem="{Binding SelectedStudent.Group}"/>
                     </StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <Button Height="30" Margin="5" Click="SaveClick">Сохранить</Button>

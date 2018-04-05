@@ -42,8 +42,8 @@
                 </DataGrid.Columns>
             </DataGrid>
             <StackPanel Orientation="Horizontal" Grid.Row="2">
-                <Button Margin="10,5,5,5" Height="30" Width="60" FontSize="15" Click="ClickAddEvent">+</Button>
-                <Button Margin="10,5,5,5" Height="30" Width="60" FontSize="15" Click="ClickRemoveEvent">-</Button>
+                <Button Margin="10,5,5,5" Height="30" FontSize="15" Click="ClickAddEvent">Добавить мероприятие</Button>
+                <Button Margin="10,5,5,5" Height="30"  FontSize="15" Click="ClickRemoveEvent">Удалить мероприятие</Button>
             </StackPanel>
         </Grid>
         <Grid Grid.Column="1">
@@ -63,36 +63,36 @@
                 <StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Width="130" Margin="5,0,5,8" TextAlignment="Right" Text="Название:"/>
-                        <TextBox Width="300" Margin="5,0,30,5" Text="{Binding SelectedEvent.Name}" />
+                        <TextBox BorderBrush="{Binding Brush}" Width="300" Margin="5,0,30,5" Text="{Binding SelectedEvent.Name}" />
                     </StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Width="130" Margin="5,0,5,8" TextAlignment="Right" Text="Дата проведения:"/>
-                        <DatePicker Width="300" Margin="5,0,30,5" SelectedDate="{Binding SelectedEvent.Date}" />
+                        <DatePicker BorderBrush="{Binding Brush}" Width="300" Margin="5,0,30,5" SelectedDate="{Binding SelectedEvent.Date}" />
                     </StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Width="130" Margin="5,0,5,8" TextAlignment="Right" Text="Сфера деятельности:"/>
-                        <ComboBox Width="300" DisplayMemberPath="Name"  Margin="5,0,0,5" ItemsSource="{Binding Spheres}" SelectedItem="{Binding SelectedEvent.Direction.Sphere}" />
+                        <ComboBox BorderBrush="{Binding Brush}" Width="300" DisplayMemberPath="Name"  Margin="5,0,0,5" ItemsSource="{Binding Spheres}" SelectedItem="{Binding SelectedEvent.Direction.Sphere}" />
                         <Button  Width="20" Margin="5,0,5,5" Click="AddSphereClick">+</Button>
                     </StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Width="130" Margin="5,0,5,8" TextAlignment="Right" Text="Тип деятельности:"/>
-                        <TextBox Width="300" Margin="5,0,30,5" Text="{Binding SelectedEvent.Direction.Description}" />
+                        <TextBox BorderBrush="{Binding Brush}" Width="300" Margin="5,0,30,5" Text="{Binding SelectedEvent.Direction.Description}" />
                     </StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Width="130" Margin="5,0,5,8" TextAlignment="Right" Text="Город проведения:"/>
-                        <TextBox Width="300" Margin="5,0,30,5" Text="{Binding SelectedEvent.Location.City}" />
+                        <TextBox BorderBrush="{Binding Brush}" Width="300" Margin="5,0,30,5" Text="{Binding SelectedEvent.Location.City}" />
                     </StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Width="130" Margin="5,0,5,8" TextAlignment="Right" Text="Адресс проведения*:"/>
-                        <TextBox Width="300" Margin="5,0,30,5" Text="{Binding SelectedEvent.Location.Adress}" />
+                        <TextBox BorderBrush="{Binding Brush}" Width="300" Margin="5,0,30,5" Text="{Binding SelectedEvent.Location.Adress}" />
                     </StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Width="130" Margin="5,0,5,8" TextAlignment="Right" Text="Описание пункта проведения*:" TextWrapping="Wrap"/>
-                        <TextBox TextWrapping="Wrap" Width="300" Margin="5,0,30,5" Height="35" Text="{Binding SelectedEvent.Location.Description}" />
+                        <TextBox BorderBrush="{Binding Brush}" TextWrapping="Wrap" Width="300" Margin="5,0,30,5" Height="35" Text="{Binding SelectedEvent.Location.Description}" />
                     </StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Width="130" Margin="5,0,5,8" TextAlignment="Right" Text="Масштаб мероприятия:"/>
-                        <ComboBox DisplayMemberPath="Name"  ItemsSource="{Binding Levels}" SelectedItem="{Binding SelectedEvent.Level}" Width="300" Margin="5,0,0,5" />
+                        <ComboBox BorderBrush="{Binding Brush}" DisplayMemberPath="Name"  ItemsSource="{Binding Levels}" SelectedItem="{Binding SelectedEvent.Level}" Width="300" Margin="5,0,0,5" />
                         <Button  Width="20" Margin="5,0,5,5" Click="AddLevelClick">+</Button>
                     </StackPanel>
                     <StackPanel Orientation="Horizontal">
